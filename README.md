@@ -1,5 +1,3 @@
-# Artificial_Intelligence
+# Alsa Device Manager
 
-Still under development...
-
-The goal is to control the robot with voice...
+Alsa Device Record Plot Spectrum Analyze Voice Recognition From Microphone
